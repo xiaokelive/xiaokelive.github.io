@@ -1,1 +1,1 @@
-hello,all
+<script src="/go.js"></script>
